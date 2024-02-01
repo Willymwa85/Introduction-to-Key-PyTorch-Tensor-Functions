@@ -1,5 +1,5 @@
 # Introduction-to-Key-PyTorch-Tensor-Functions
-torch.zeros_like() - Initializes a tensor with zeros based on shape of input tensor. Useful for clearing tensor values and parameter initialization.
+ - torch.zeros_like() - Initializes a tensor with zeros based on shape of input tensor. Useful for clearing tensor values and parameter initialization.
 torch.normal() - Generates random numbers from a normal distribution. Commonly used for weight initialization in neural networks.
 torch.hstack() - Stacks sequence of tensors horizontally by concatenating along a new axis. Helps combine data for models.
 torch.gather() - Gathers values from a tensor along a given dimension based on index tensor. Enables slicing and filtering tensors.
